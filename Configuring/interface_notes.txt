@@ -1,0 +1,11 @@
+to connect the raspberry pi with laptop without internet:
+   we need basically two things:
+1. we need some internet to share it to raspberry pi throught ethernet
+2. using remote desktop we can access it
+
+hint in cmd promt
+we habe to find the ip address by means of cmd  (...... ping raspberrypi.mshome.net ......)
+the copy r note the ip address and use it in the remote desktop
+we can successfully flow through it...
+thats it..
+ fuck offff.....

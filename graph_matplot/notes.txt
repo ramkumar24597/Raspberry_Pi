@@ -1,0 +1,14 @@
+here in this project we have done the serial communication between arduino and raspberry pi 
+talk about the gas sensor value through it
+
+then we have used the matplotlib library to plot the value of the sensor to plot the graph
+
+milestones seen:
+first the bar graph generation 
+then real time monitoring so we used animation in matplot lib to animate the graph for real time animation (understand the inbuilt functions of the animation)
+Self function to get the serial communication value automatically or self process
+
+problems faced:
+
+zip function arguments must be an iteratable one
+global declaration of variables
